@@ -2,7 +2,7 @@
 
 Linux Debian - операционная система, состоящая из свободного ПО с открытым исходным кодом. В настоящее время Debian GNU/Linux — один из самых популярных и важных дистрибутивов GNU/Linux, в первичной форме оказавший значительное влияние на развитие этого типа ОС в целом. 
 
-![Debian](url)svg 
+![Debian](https://sun9-1.userapi.com/impf/gDVylKvZ8r7sNMX0iDhrnkLY-CFel0drQZYW9A/RnV_YLBFgqA.jpg?size=1097x734&quality=95&sign=33d29d18ae88959a41229a282b904894&type=album)svg 
 
 Kali Linux — GNU/Linux-LiveCD, возникший как результат слияния WHAX и Auditor Security Collection. Проект создали Мати Ахарони и Макс Мозер. Предназначен прежде всего для проведения тестов на безопасность. Наследник развивавшегося до 2013 года на базе Knoppix дистрибутива BackTrack. 
 
@@ -10,7 +10,7 @@ Kali Linux — GNU/Linux-LiveCD, возникший как результат с
 
 Ubuntu LTS  (Long Term Support) - это словосочетание означает версию системы с длительной поддержкой, для которой обновления будут выходить в течении 5 лет (до апреля 2027г.). Версия Ubuntu LTS (Long Term Support) является самой стабильной и надежной из всех. 
 
-![Ubuntu](url)svg 
+![Ubuntu](https://sun9-77.userapi.com/impf/ZdcQujsz1WTkCqfof7Y-5tO_-mN0o2Atvh8b2g/ozZkhET8Jyg.jpg?size=1475x821&quality=95&sign=366d7a05defaed2750c914c5a28762db&type=album)svg 
 
 Debian и Ubuntu. И там, и там можно использовать команды apt-get для управления приложениями. Оба дистрибутива поддерживают установку DEB-пакетов. Часто, читая статьи про Linux, можно видеть, что для Debian и Ubuntu подходят одни и те же инструкции по установке каких-то программ. 
 
